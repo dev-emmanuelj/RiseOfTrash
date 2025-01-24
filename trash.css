@@ -131,7 +131,7 @@ a{
 
 @media (max-width: 414px) {
     .nav{
-        font-size: 10px;
+        font-size: 13px;
         padding: 2px;
     }
     .div1{
@@ -189,6 +189,16 @@ a{
         font-size: 10px;
         line-height: 30px;
         width: 90%;
+    }
+       .p1{
+        width: 300px;
+        margin-left: 170px;
+        margin-bottom: 20px;
+    }
+    .h22{
+        padding: 1px;
+        font-size: 13px;
+        width: 90px; 
     }
    
 }
