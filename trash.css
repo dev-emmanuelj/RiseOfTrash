@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-.nav{
+nav{
     color: white;
     background-color: rgb(23, 32, 48);
     text-align: center;
@@ -129,7 +129,7 @@ a{
 
 
 @media (max-width: 414px) {
-    .nav{
+    nav{
         font-size: 8px;
         padding: 2px;
     }
