@@ -6,6 +6,10 @@
 .nav{
     color: white;
     background-color: rgb(23, 32, 48);
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 30px;
+    padding: 8px;
 }
 .div1{
     display: flex;
