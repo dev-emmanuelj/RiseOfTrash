@@ -5,7 +5,7 @@
 }
 
 .background {
-    background-image: trash-background.png;
+    background-image: url('trash-background.png');
     background-size: cover;
     height: 100vh;
 }
