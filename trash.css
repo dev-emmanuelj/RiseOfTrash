@@ -3,11 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-.background {
-    background-image: url('trash-background.png');
-    background-size: cover;
-    height: 100vh;
 }
 .nav{
     color: white;
